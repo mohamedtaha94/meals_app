@@ -1,0 +1,2 @@
+D:/flutter/portofolio/meals_app/meals_app/android/app/.cxx/Debug/5i5n1r3u/x86_64/CMakeFiles/edit_cache.dir
+D:/flutter/portofolio/meals_app/meals_app/android/app/.cxx/Debug/5i5n1r3u/x86_64/CMakeFiles/rebuild_cache.dir
